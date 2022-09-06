@@ -1,19 +1,185 @@
 {
-  "posts": [
+  "flights": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "city": "Mumbai",
+      "flight":"Air India",
+      "time":"6:45PM",
+      "price": "Rs. 9,600"
+    },{
+      "id": 2,
+      "city": "Delhi",
+      "flight":"Air India",
+      "time":"3:40PM",
+      "price": "Rs. 7,600"
+    },{
+      "id": 3,
+      "city": "Bengaluru",
+      "flight":"Air India",
+      "time":"6:30PM",
+      "price": "Rs. 8,600"
+    },{
+      "id": 4,
+      "city": "Amritsar",
+      "flight":"Air India",
+      "time":"9:00PM",
+      "price": "Rs. 8,400"
+    },{
+      "id": 5,
+      "city": "Patna",
+      "flight":"Air India",
+      "time":"8:45PM",
+      "price": "Rs. 5,700"
+    },{
+      "id": 6,
+      "city": "Chennai",
+      "flight":"Air India",
+      "time":"5:00PM",
+      "price": "Rs. 9,700"
+    },{
+      "id": 7,
+      "city": "Lucknow",
+      "flight":"Air India",
+      "time":"6:00PM",
+      "price": "Rs. 8,700"
+    },{
+      "id": 8,
+      "city": "Jaipur",
+      "flight":"Air India",
+      "time":"8:45PM",
+      "price": "Rs. 4,600"
+    },{
+      "id": 9,
+      "city": "Pune",
+      "flight":"Air India",
+      "time":"4:45PM",
+      "price": "Rs. 9,800"
+    },{
+      "id": 10,
+      "city": "Ptna",
+      "flight":"Air India",
+      "time":"6:45AM",
+      "price": "Rs. 5,600"
+    },{
+      "id": 11,
+      "city": "Mumbai",
+      "flight":"Spice Jet",
+      "time":"4:45PM",
+      "price": "Rs. 9,400"
+    },{
+      "id": 12,
+      "city": "Delhi",
+      "flight":"Spice Jet",
+      "time":"8:40PM",
+      "price": "Rs. 8,600"
+    },{
+      "id": 13,
+      "city": "Bengaluru",
+      "flight":"Spice Jet",
+      "time":"10:30AM",
+      "price": "Rs. 9,000"
+    },{
+      "id": 14,
+      "city": "Amritsar",
+      "flight":"Spice Jet",
+      "time":"4:00PM",
+      "price": "Rs. 9,400"
+    },{
+      "id": 15,
+      "city": "Patna",
+      "flight":"Spice Jet",
+      "time":"11:45AM",
+      "price": "Rs. 6,600"
+    },{
+      "id": 16,
+      "city": "Chennai",
+      "flight":"Spice Jet",
+      "time":"9:00PM",
+      "price": "Rs. 7,700"
+    },{
+      "id": 17,
+      "city": "Lucknow",
+      "flight":"Spice Jet",
+      "time":"7:00PM",
+      "price": "Rs. 9,700"
+    },{
+      "id": 18,
+      "city": "Jaipur",
+      "flight":"Spice Jet",
+      "time":"6:45AM",
+      "price": "Rs. 5,600"
+    },{
+      "id": 19,
+      "city": "Pune",
+      "flight":"Spice Jet",
+      "time":"8:20PM",
+      "price": "Rs. 8,000"
+    },{
+      "id": 20,
+      "city": "Ptna",
+      "flight":"Spice Jet",
+      "time":"9:15AM",
+      "price": "Rs. 4,200"
+    },{
+      "id": 21,
+      "city": "Mumbai",
+      "flight":"IndiGo",
+      "time":"8:45PM",
+      "price": "Rs. 7,400"
+    },{
+      "id": 22,
+      "city": "Delhi",
+      "flight":"IndiGo",
+      "time":"5:40PM",
+      "price": "Rs. 7,600"
+    },{
+      "id": 23,
+      "city": "Bengaluru",
+      "flight":"IndiGo",
+      "time":"9:30AM",
+      "price": "Rs. 9,000"
+    },{
+      "id": 24,
+      "city": "Amritsar",
+      "flight":"IndiGo",
+      "time":"7:00PM",
+      "price": "Rs. 7,400"
+    },{
+      "id": 25,
+      "city": "Patna",
+      "flight":"IndiGo",
+      "time":"2:45AM",
+      "price": "Rs. 7,800"
+    },{
+      "id": 26,
+      "city": "Chennai",
+      "flight":"IndiGo",
+      "time":"8:00PM",
+      "price": "Rs. 9,700"
+    },{
+      "id": 27,
+      "city": "Lucknow",
+      "flight":"IndiGo",
+      "time":"6:00PM",
+      "price": "Rs. 10,700"
+    },{
+      "id": 28,
+      "city": "Jaipur",
+      "flight":"IndiGo",
+      "time":"8:45AM",
+      "price": "Rs. 18,600"
+    },{
+      "id": 29,
+      "city": "Pune",
+      "flight":"Spice Jet",
+      "time":"10:20PM",
+      "price": "Rs. 8,100"
+    },{
+      "id": 30,
+      "city": "Ptna",
+      "flight":"Spice Jet",
+      "time":"9:50AM",
+      "price": "Rs. 7,200"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
