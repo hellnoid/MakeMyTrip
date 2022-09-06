@@ -31,13 +31,16 @@ import { ImCross } from "react-icons/im";
 // import { getValue } from "../Utils/LocalStorage";
 
 const Navbar = ({ isUserLoggedIn, user }) => {
+  // const Navbar = ({ isUserLoggedIn, user }) => {
+  // for mobile version
   const [open, setOpen] = useState(false);
-  const [openProfile, setOpenProfile] = useState(false);
+
+  // const [openProfile, setOpenProfile] = useState(false);
   const navigate = useNavigate();
   const handleClickFlight = () => navigate("/flights");
   const handleClickHotels = () => navigate("/hotels");
-  console.log("user is logged in? ", isUserLoggedIn);
-  console.log("user name", user);
+  // console.log("user is logged in? ", isUserLoggedIn);
+  // console.log("user name", user);
   return (
     <>
       <nav className={styles.navbarWrapper}>
@@ -144,13 +147,7 @@ const Navbar = ({ isUserLoggedIn, user }) => {
                 <p style={{ marginTop: "0px" }}>Activities</p>
               </div>
             </div>
-
             {/* login container */}
-            {/* {!isUserLoggedIn ? (
-              <div className={styles.loginContainer}>
-                <Login />
-              </div>
-            ) : ( */}
             {/* <div className={styles.loginContainer}>
               <div
                 className={styles.userContainer}
