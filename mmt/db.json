@@ -5,181 +5,181 @@
       "city": "Mumbai",
       "flight":"Air India",
       "time":"18:45",
-      "price": "Rs. 9,600"
+      "price": 9600
     },{
       "id": 2,
       "city": "Delhi",
       "flight":"Air India",
       "time":"15:40",
-      "price": "Rs. 7,600"
+      "price": 7600
     },{
       "id": 3,
       "city": "Bengaluru",
       "flight":"Air India",
       "time":"18:30",
-      "price": "Rs. 8,600"
+      "price": 8600
     },{
       "id": 4,
       "city": "Amritsar",
       "flight":"Air India",
       "time":"21:00",
-      "price": "Rs. 8,400"
+      "price": 8400
     },{
       "id": 5,
       "city": "Patna",
       "flight":"Air India",
       "time":"20:45",
-      "price": "Rs. 5,700"
+      "price": 5700
     },{
       "id": 6,
       "city": "Chennai",
       "flight":"Air India",
       "time":"17:00",
-      "price": "Rs. 9,700"
+      "price": 9700
     },{
       "id": 7,
       "city": "Lucknow",
       "flight":"Air India",
       "time":"18:00",
-      "price": "Rs. 8,700"
+      "price": 8700
     },{
       "id": 8,
       "city": "Jaipur",
       "flight":"Air India",
       "time":"20:45",
-      "price": "Rs. 4,600"
+      "price": 4600
     },{
       "id": 9,
       "city": "Pune",
       "flight":"Air India",
       "time":"16:45",
-      "price": "Rs. 9,800"
+      "price": 9800
     },{
       "id": 10,
       "city": "Ptna",
       "flight":"Air India",
       "time":"6:45",
-      "price": "Rs. 5,600"
+      "price": 5600
     },{
       "id": 11,
       "city": "Mumbai",
       "flight":"Spice Jet",
       "time":"16:45",
-      "price": "Rs. 9,400"
+      "price": 9400
     },{
       "id": 12,
       "city": "Delhi",
       "flight":"Spice Jet",
       "time":"20:40",
-      "price": "Rs. 8,600"
+      "price": 8600
     },{
       "id": 13,
       "city": "Bengaluru",
       "flight":"Spice Jet",
       "time":"10:30",
-      "price": "Rs. 9,000"
+      "price": 9000
     },{
       "id": 14,
       "city": "Amritsar",
       "flight":"Spice Jet",
       "time":"16:00",
-      "price": "Rs. 9,400"
+      "price": 9400
     },{
       "id": 15,
       "city": "Patna",
       "flight":"Spice Jet",
       "time":"11:45",
-      "price": "Rs. 6,600"
+      "price": 6600
     },{
       "id": 16,
       "city": "Chennai",
       "flight":"Spice Jet",
       "time":"21:00",
-      "price": "Rs. 7,700"
+      "price": 7700
     },{
       "id": 17,
       "city": "Lucknow",
       "flight":"Spice Jet",
       "time":"19:00",
-      "price": "Rs. 9,700"
+      "price": 9700
     },{
       "id": 18,
       "city": "Jaipur",
       "flight":"Spice Jet",
       "time":"6:45",
-      "price": "Rs. 5,600"
+      "price": 5600
     },{
       "id": 19,
       "city": "Pune",
       "flight":"Spice Jet",
       "time":"20:20",
-      "price": "Rs. 8,000"
+      "price": 8000
     },{
       "id": 20,
       "city": "Ptna",
       "flight":"Spice Jet",
       "time":"9:15",
-      "price": "Rs. 4,200"
+      "price": 4200
     },{
       "id": 21,
       "city": "Mumbai",
       "flight":"IndiGo",
       "time":"20:45",
-      "price": "Rs. 7,400"
+      "price": 7400
     },{
       "id": 22,
       "city": "Delhi",
       "flight":"IndiGo",
       "time":"17:40",
-      "price": "Rs. 7,600"
+      "price": 7600
     },{
       "id": 23,
       "city": "Bengaluru",
       "flight":"IndiGo",
       "time":"9:30",
-      "price": "Rs. 9,000"
+      "price": 9000
     },{
       "id": 24,
       "city": "Amritsar",
       "flight":"IndiGo",
       "time":"19:00",
-      "price": "Rs. 7,400"
+      "price": 7400
     },{
       "id": 25,
       "city": "Patna",
       "flight":"IndiGo",
       "time":"2:45",
-      "price": "Rs. 7,800"
+      "price": 7800
     },{
       "id": 26,
       "city": "Chennai",
       "flight":"IndiGo",
       "time":"20:00",
-      "price": "Rs. 9,700"
+      "price": 9700
     },{
       "id": 27,
       "city": "Lucknow",
       "flight":"IndiGo",
       "time":"18:00",
-      "price": "Rs. 10,700"
+      "price": 10700
     },{
       "id": 28,
       "city": "Jaipur",
       "flight":"IndiGo",
       "time":"8:45",
-      "price": "Rs. 18,600"
+      "price": 18600
     },{
       "id": 29,
       "city": "Pune",
       "flight":"Spice Jet",
       "time":"10:20",
-      "price": "Rs. 8,100"
+      "price": 8100
     },{
       "id": 30,
       "city": "Ptna",
       "flight":"Spice Jet",
       "time":"9:50",
-      "price": "Rs. 7,200"
+      "price": 7200
     }
   ]
 }
