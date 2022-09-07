@@ -1,15 +1,22 @@
 import './App.css';
 import NavBar from './Components/NavBar';
+
+import { Route, Routes } from "react-router-dom";
+import { Home } from './Components/Home/Home';
 import { Offers } from './Components/Offers';
-import {Location} from './Components/Location';
+import { Location } from './Components/Location';
+
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <Offers/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+      <h1>Soni</h1>
+      <Offers />
       <Location />
-      {/* <h1>Soni</h1> */}
     </div>
   );
 }
