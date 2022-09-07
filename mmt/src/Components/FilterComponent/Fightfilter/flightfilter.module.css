@@ -1,0 +1,11 @@
+
+  .filterDiv {
+    background-color: rgb(255, 255, 255);
+    width: 18%;
+    margin-right: 2%;
+    height: fit-content;
+    border:2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
