@@ -11,11 +11,9 @@ import { Location } from './Components/Location';
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
       {/* <NavBar /> */}
       {/* <h1>Soni</h1> */}
       <Flightfilter />
-=======
       <NavBar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -23,7 +21,7 @@ function App() {
       <h1>Soni</h1>
       <Offers />
       <Location />
->>>>>>> 9b9ed6f3a4a09ce7276b21ac2bef381de9c487b1
+
     </div>
   );
 }

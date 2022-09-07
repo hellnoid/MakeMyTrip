@@ -1,4 +1,4 @@
-import styles from  './flightfilter.module.css'
+
 import { Checkbox,
   CheckboxGroup,
   Text,Stack,Box
@@ -128,19 +128,6 @@ export  const Flightfilter = () =>{
 
                 </Box>
                 </Box> 
-
-
-
-
-
-
-
-
-
-
-
-
-
                 <Box display="flex"  flexDirection="column" alignItems="flex-start" mt="30px">
                 <Text fontSize='lg' color="black" 	fontWeight="600" mb="10px">Airlines</Text>
                 <CheckboxGroup>
