@@ -1,22 +1,23 @@
-import './App.css';
-import NavBar from './Components/NavBar';
+import React, { useEffect } from "react";
+import { AllRoutes } from "./AllRoutes/AllRoutes";
+import { Flight } from "./features/flightComponents/Flight";
+import Navbar from "./Components/Navbar";
+import { useSelector } from "react-redux";
+import { getValue } from "./Utils/LocalStorage";
 
-import { Route, Routes } from "react-router-dom";
-import { Home } from './Components/Home/Home';
-import { Offers } from './Components/Offers';
-import { Location } from './Components/Location';
-
-
+import ProductPage from "./HotelsSecondPage/ProductPage"
 function App() {
+  const isUserLoggedIn = useSelector((state) => state.auth.isUserLoggedIn);
+  console.log("isUserLoggedIn", isUserLoggedIn);
+  const user = useSelector((state) => state.auth.userName);
+
   return (
     <div className="App">
-      <NavBar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-      </Routes>
-      <h1>Soni</h1>
-      <Offers />
-      <Location />
+      <Navbar isUserLoggedIn={isUserLoggedIn} user={user} />
+      {/* <Review /> */}
+      <AllRoutes />
+      
+      {/* <ProductPage/> */}
     </div>
   );
 }
