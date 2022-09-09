@@ -18,7 +18,7 @@
   margin: 50px auto;
   padding: 20px;
   font-size: bold;
-  height: auto;
+  height: 230px;
 }
 .tripInternational {
   display: flex;
@@ -242,12 +242,12 @@
   );
   position: absolute;
   bottom: 7.5%;
-  left: 47%;
+  left: 43%;
   padding: 0.1% 45px;
   border-radius: 40px;
   color: white;
   font-size: 2em;
-  font-weight: 900;
+  font-weight: 500;
 }
 
 @media only screen and (max-width: 1320px) {

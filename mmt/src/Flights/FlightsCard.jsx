@@ -3,7 +3,8 @@ import "../CSS/FlightsCard.css"
 
 export const FlightsCard = () => {
     return (
-        <div className='mainContainer'>
+        <div>
+            <div className='mainContainer'>
             <div className='row'>
                 <div className='indContainer'>
                     <img src="http://promos.makemytrip.com/images/50x50-Other-23052019.png" alt="" />
@@ -73,6 +74,7 @@ export const FlightsCard = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     )
 }

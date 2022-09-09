@@ -249,7 +249,7 @@ const FlightHome = () => {
       </div>
       <div className={styles.buttonContainer}>
         <div type="submit" onClick={handleSubmit}>
-          Search
+          SEARCH
         </div>
       </div>
     </div>
