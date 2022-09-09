@@ -1,0 +1,505 @@
+{
+  "flights": [
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef133994b0ccb5adb4c67",
+      "name": "IndiGo",
+      "departure_time": "22:55",
+      "arrival_time": "01:45",
+      "duration": "02 h 50 m",
+      "fare": 10418,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T10:55:47.778Z",
+      "updatedAt": "2022-03-26T10:55:47.778Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef1d7994b0ccb5adb4c69",
+      "name": "IndiGo",
+      "departure_time": "9:50",
+      "arrival_time": "19:50",
+      "duration": "10 h",
+      "fare": 8160,
+      "stops": "1 stop via Vadodara",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T10:58:31.484Z",
+      "updatedAt": "2022-03-26T10:58:31.484Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef26d994b0ccb5adb4c6b",
+      "name": "IndiGo",
+      "departure_time": "1:50",
+      "arrival_time": "08:15",
+      "duration": "06 h 25 m",
+      "fare": 12990,
+      "stops": "1 stop via Hyderabad",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:01:01.702Z",
+      "updatedAt": "2022-03-26T11:01:01.702Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef2b8994b0ccb5adb4c6d",
+      "name": "Go First",
+      "departure_time": "15:45",
+      "arrival_time": "21:45",
+      "duration": "06 h",
+      "fare": 8160,
+      "stops": "1 stop via Mumbai",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:02:16.814Z",
+      "updatedAt": "2022-03-26T11:02:16.814Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef2fa994b0ccb5adb4c6f",
+      "name": "Go First",
+      "departure_time": "10:55",
+      "arrival_time": "21:45",
+      "duration": "10 h 50 m",
+      "fare": 8160,
+      "stops": "1 stop via Mumbai",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:03:22.790Z",
+      "updatedAt": "2022-03-26T11:03:22.790Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef330994b0ccb5adb4c71",
+      "name": "Go First",
+      "departure_time": "6:20",
+      "arrival_time": "11:40",
+      "duration": "5 h 20 m",
+      "fare": 15773,
+      "stops": "1 stop via Patna",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:04:16.213Z",
+      "updatedAt": "2022-03-26T11:04:16.213Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef3a4994b0ccb5adb4c74",
+      "name": "SpiceJet",
+      "departure_time": "00:30",
+      "arrival_time": "10:00",
+      "duration": "9 h 30 m",
+      "fare": 8160,
+      "stops": "1 stop via Mumbai",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:06:12.133Z",
+      "updatedAt": "2022-03-26T11:06:12.133Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef431994b0ccb5adb4c76",
+      "name": "SpiceJet",
+      "departure_time": "21:25",
+      "arrival_time": "00:05",
+      "duration": "2 h 40 m",
+      "fare": 12360,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:08:33.993Z",
+      "updatedAt": "2022-03-26T11:08:33.993Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef468994b0ccb5adb4c78",
+      "name": "SpiceJet",
+      "departure_time": "15:10",
+      "arrival_time": "21:50",
+      "duration": "6 h 40 m",
+      "fare": 15302,
+      "stops": "1 stop via Patna",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:09:28.139Z",
+      "updatedAt": "2022-03-26T11:09:28.139Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef50daee8c836edddafba",
+      "name": "Air India",
+      "departure_time": "21:15",
+      "arrival_time": "00:05",
+      "duration": "2 h 50 m",
+      "fare": 16455,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:12:13.280Z",
+      "updatedAt": "2022-03-26T11:12:13.280Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef534aee8c836edddafbc",
+      "name": "Air India",
+      "departure_time": "18:30",
+      "arrival_time": "00:20",
+      "duration": "5 h 50 m",
+      "fare": 16455,
+      "stops": "1 stop via Lucknow",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:12:52.687Z",
+      "updatedAt": "2022-03-26T11:12:52.687Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef584aee8c836edddafbe",
+      "name": "Air India",
+      "departure_time": "13:30",
+      "arrival_time": "16:15",
+      "duration": "2 h 45 m",
+      "fare": 20340,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:14:12.620Z",
+      "updatedAt": "2022-03-26T11:14:12.620Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef5dc7384efb8c0dcb240",
+      "name": "Vistara",
+      "departure_time": "08:05",
+      "arrival_time": "10:50",
+      "duration": "2 h 45 m",
+      "fare": 20340,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:15:40.806Z",
+      "updatedAt": "2022-03-26T11:15:40.806Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef5f37384efb8c0dcb242",
+      "name": "Vistara",
+      "departure_time": "09:05",
+      "arrival_time": "11:50",
+      "duration": "2 h 45 m",
+      "fare": 20340,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:16:03.674Z",
+      "updatedAt": "2022-03-26T11:16:03.674Z"
+    },
+    {
+      "flight_details": {
+        "baggage": "ADULT",
+        "checkin": "15 Kgs (1 piece only)",
+        "cabin": "7 Kgs (1 piece only)"
+      },
+      "_id": "623ef6127384efb8c0dcb244",
+      "name": "Vistara",
+      "departure_time": "19:50",
+      "arrival_time": "22:40",
+      "duration": "2 h 50 m",
+      "fare": 20340,
+      "stops": "Non stop",
+      "departure": "New Delhi",
+      "arrival": "Bengaluru",
+      "createdAt": "2022-03-26T11:16:34.616Z",
+      "updatedAt": "2022-03-26T11:16:34.616Z"
+    }
+  ],
+  "hotels": [
+    {
+      "_id": "6242e269795f4b4c106aebff",
+      "name": "The Surya New Delhi",
+      "ratings": 4,
+      "location": "New Delhi",
+      "country": "India",
+      "price": 8020,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201007021321155840-6494936c1fb111e9a6760242ac110002.jpg?&output-quality=75&downsize=910:612&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec02",
+      "name": "Crowne Plaza Okhla, Manyata Tech Park",
+      "ratings": 4,
+      "location": "Bengaluru",
+      "country": "India",
+      "price": 8470,
+      "cover": "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "extraimageUrl": [
+        "https://r1imghtlak.mmtcdn.com/8efe6e0c237711e8ade7025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/8c518310237711e89cd40a4cef95d023.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec06",
+      "name": "Radisson Blue Bengaluru",
+      "ratings": 4,
+      "location": "Bengaluru",
+      "country": "India",
+      "price": 6990,
+      "cover": "https://r1imghtlak.mmtcdn.com/d076a970c29e11ebbbed0242ac110005.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec07",
+      "name": "Crowne Plaza Okhla, Juhu",
+      "ratings": 4,
+      "location": "Mumbai",
+      "country": "India",
+      "price": 8470,
+      "cover": "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "extraimageUrl": [
+        "https://r1imghtlak.mmtcdn.com/8efe6e0c237711e8ade7025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/8c518310237711e89cd40a4cef95d023.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec08",
+      "name": "Eros Hotel New Delhi ,Bkc",
+      "ratings": 5,
+      "location": "Mumbai",
+      "country": "India",
+      "price": 9070,
+      "cover": "https://r1imghtlak.mmtcdn.com/29bfb31ee26811e4be23001ec9b85d13.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,73&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec09",
+      "name": "The Suryaa, Powai",
+      "ratings": 4,
+      "location": "Mumbai",
+      "country": "India",
+      "price": 8020,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201007021321155840-6494936c1fb111e9a6760242ac110002.jpg?&output-quality=75&downsize=910:612&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec0b",
+      "name": "Radisson Blue, Powai",
+      "ratings": 4,
+      "location": "Mumbai",
+      "country": "India",
+      "price": 6990,
+      "cover": "https://r1imghtlak.mmtcdn.com/d076a970c29e11ebbbed0242ac110005.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aebfd",
+      "name": "Crowne Plaza Okhla, South Delhi",
+      "ratings": 4,
+      "location": "New Delhi",
+      "country": "India",
+      "price": 8470,
+      "cover": "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+      "extraimageUrl": [
+        "https://r1imghtlak.mmtcdn.com/8efe6e0c237711e8ade7025f77df004f.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/kgudqj58e97dnff94um4ho430013.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/8c518310237711e89cd40a4cef95d023.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec00",
+      "name": "Roseate House New Delhi",
+      "ratings": 4,
+      "location": "New Delhi",
+      "country": "India",
+      "price": 7090,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200810221411529549-44ac12fa97e811e9b25b0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aebfe",
+      "name": "Eros Hotel New Delhi ,Nehru Place",
+      "ratings": 5,
+      "location": "New Delhi",
+      "country": "India",
+      "price": 9070,
+      "cover": "https://r1imghtlak.mmtcdn.com/29bfb31ee26811e4be23001ec9b85d13.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,73&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec03",
+      "name": "Eros Hotel New Delhi ,HSR Layout",
+      "ratings": 5,
+      "location": "Bengaluru",
+      "country": "India",
+      "price": 9070,
+      "cover": "https://r1imghtlak.mmtcdn.com/29bfb31ee26811e4be23001ec9b85d13.jfif?&output-quality=75&downsize=910:612&crop=910:612;0,73&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec05",
+      "name": "Roseate House Bengaluru",
+      "ratings": 4,
+      "location": "Bengaluru",
+      "country": "India",
+      "price": 7090,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200810221411529549-44ac12fa97e811e9b25b0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec0a",
+      "name": "Roseate House, Andheri",
+      "ratings": 4,
+      "location": "Mumbai",
+      "country": "India",
+      "price": 7090,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200810221411529549-44ac12fa97e811e9b25b0242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec01",
+      "name": "Radisson Blue New Delhi",
+      "ratings": 4,
+      "location": "New Delhi",
+      "country": "India",
+      "price": 6990,
+      "cover": "https://r1imghtlak.mmtcdn.com/d076a970c29e11ebbbed0242ac110005.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    },
+    {
+      "_id": "6242e269795f4b4c106aec04",
+      "name": "The Suryaa Bengaluru",
+      "ratings": 4,
+      "location": "Bengaluru",
+      "country": "India",
+      "price": 8020,
+      "cover": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201007021321155840-6494936c1fb111e9a6760242ac110002.jpg?&output-quality=75&downsize=910:612&output-format=webp&downsize=1400:520&crop=1400:520",
+      "extraimageUrl": [
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-2e9781f0f3f611ea96bb0242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r1imghtlak.mmtcdn.com/7fdcc994f3f611eaacb90242ac110004.jpg?&output-quality=75&downsize=243:162&output-format=webp",
+        "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/2016072005194324962-0a3c7be4e26811e4a4045ee5da2daa2a.jpg?&output-quality=75&downsize=243:162&output-format=webp"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "flights": []
+    }
+  ],
+  "register": [
+    {
+      "name": "Rishab Kumar",
+      "mobile_number": "",
+      "email": "",
+      "password": "",
+      "id": 1
+    }
+  ],
+  "auth": [
+    {
+      "login": []
+    }
+  ]
+}
