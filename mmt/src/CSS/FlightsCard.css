@@ -11,6 +11,12 @@
     flex-wrap: wrap;
 }
 
+.downLoadImg {
+    width: 100%;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
 .indContainer {
     display: flex;
     margin: 10px 0px;
