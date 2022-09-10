@@ -29,11 +29,11 @@ MakeMyTrip is an Indian online travel company founded in 2000. Headquartered in 
 
 - Login and Sign-in page
 - Carouse for product pictures
-- Detailed product preview page
+- Detailed Flights and Hotels preview page
 - Filters for custom price
 - Sort functions for Higher to Lower price,Lower to Higher price and Search bar for finding the product by it's name.
 - Manual slider for product card.
-- Add to cart opt for buying products.
+- Booking Flights.
 
 ## Run Locally
 
